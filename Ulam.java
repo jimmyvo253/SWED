@@ -23,9 +23,9 @@ public class Ulam{
         }
 
         if (allTerminate) {
-            System.out.println("✅ All Ulam sequences for numbers < 1,000,000 terminated at 1.");
+            System.out.println(" All Ulam sequences for numbers < 1,000,000 terminated at 1.");
         } else {
-            System.out.println("❌ Found a number that does not terminate.");
+            System.out.println(" Found a number that does not terminate.");
         }
     }
 }
